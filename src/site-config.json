@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Parker Siding Professionals",
+    "phone": "+17203432525",
+    "category": "siding contractor",
+    "city": "Colorado Springs",
+    "state": "CO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Siding Experts for Colorado Homes",
+      "heroSubline": "Protect your home with durable, beautiful siding. Parker Siding Professionals delivers expert installation and lasting results in Colorado Springs.",
+      "aboutTitle": "Built on Quality, Driven by Integrity",
+      "aboutText": [
+        "Parker Siding Professionals started with a simple mission: provide Colorado Springs homeowners with siding solutions that withstand our unique climate. We saw too many homes suffering from hail damage and UV exposure, and we knew we could do better.",
+        "Our approach is straightforward: honest assessments, quality materials, and meticulous workmanship. We treat every home as if it were our own, ensuring a durable and aesthetically pleasing finish. We focus on doing the job right the first time.",
+        "We're deeply committed to the Colorado Springs community. We source materials locally whenever possible, support local charities, and strive to be a responsible and reliable business that our neighbors can trust."
+      ],
+      "valueProps": [
+        {
+          "title": "Hail-Resistant Siding",
+          "description": "Protect your home from Colorado's notorious hail storms with our impact-resistant siding options."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation for maximum performance and longevity."
+        },
+        {
+          "title": "Free Consultations",
+          "description": "Get a detailed assessment and transparent quote with no obligation."
+        },
+        {
+          "title": "Enhanced Curb Appeal",
+          "description": "Boost your home's value and aesthetic with beautiful, modern siding designs."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Siding Quote",
+      "ctaSubline": "Protect and beautify your home with Parker Siding Professionals. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for Colorado Springs homes.",
+        "description": "Vinyl siding remains a popular choice for Colorado Springs homeowners due to its affordability, versatility, and durability. We offer a wide range of vinyl siding styles and colors to complement any home's architecture. Our expert installation process ensures a weather-tight seal, protecting your home from the elements. We pay close attention to detail, properly flashing windows and doors to prevent moisture intrusion, a common issue in our climate. \n\nWe start with a thorough inspection of your existing siding and structure to identify any underlying issues. Our team carefully removes old siding, prepares the wall surface, and installs new vinyl siding with precision. We use only high-quality vinyl materials designed to withstand Colorado's extreme temperature fluctuations and UV exposure. Our vinyl siding options are also hail-resistant, a crucial factor for homeowners in El Paso County. \n\nParker Siding Professionals handles every aspect of your vinyl siding installation, from initial consultation to final cleanup. We pride ourselves on clear communication, transparent pricing, and a commitment to exceeding your expectations. With our professional installation, your new vinyl siding will look great and provide lasting protection for your home.",
+        "process": [
+          "Step 1: Free consultation and estimate",
+          "Step 2: Material selection and design planning",
+          "Step 3: Old siding removal and wall preparation",
+          "Step 4: Precise vinyl siding installation and finishing"
+        ],
+        "benefits": [
+          "Affordable and durable",
+          "Wide range of styles and colors",
+          "Low maintenance",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Colorado Springs?",
+            "answer": "With proper installation and maintenance, vinyl siding can last 20-30 years in Colorado Springs, even with our intense sun and occasional hail."
+          },
+          {
+            "question": "Is vinyl siding hail-resistant?",
+            "answer": "Yes, we offer vinyl siding options specifically designed to withstand hail damage, providing added protection for your home."
+          },
+          {
+            "question": "What maintenance is required for vinyl siding?",
+            "answer": "Vinyl siding requires minimal maintenance. Typically, a simple wash with soap and water once or twice a year is sufficient to keep it looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and beautiful fiber cement siding for lasting protection.",
+        "description": "Fiber cement siding is a premium siding option known for its exceptional durability, fire resistance, and aesthetic appeal. It's an excellent choice for homeowners in Colorado Springs who want a siding that can withstand the elements and enhance their home's curb appeal. Unlike wood siding, fiber cement is resistant to rot, pests, and fire, making it a long-lasting and low-maintenance option. \n\nWe offer a variety of fiber cement siding styles, including traditional lap siding, shingles, and vertical panels, allowing you to achieve the perfect look for your home. Our experienced installers meticulously install fiber cement siding to ensure a weather-tight seal and a flawless finish. We pay special attention to proper caulking and sealing to prevent moisture intrusion, a common concern in our climate. \n\nParker Siding Professionals is committed to providing top-quality fiber cement siding installation services. We use only the highest quality materials and employ skilled craftsmen to ensure a durable and beautiful result. We work closely with you throughout the process to ensure your complete satisfaction. Fiber cement is an investment that pays off; its longevity and curb appeal enhancement make it a great choice for Colorado Springs homeowners.",
+        "process": [
+          "Step 1: Detailed consultation and design selection",
+          "Step 2: Precise measurements and material ordering",
+          "Step 3: Professional installation by certified technicians",
+          "Step 4: Thorough inspection and final cleanup"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Fire and pest resistance",
+          "Enhanced curb appeal",
+          "Low maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last 50 years or more with proper installation and maintenance, making it a very cost-effective option."
+          },
+          {
+            "question": "Is fiber cement siding resistant to hail damage?",
+            "answer": "Fiber cement siding offers good resistance to hail damage compared to other siding materials, though extreme hail events can still cause some cosmetic damage."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-primed and requires painting after installation. We can help you choose the perfect color to complement your home."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair to protect your home from the elements.",
+        "description": "Even the most durable siding can suffer damage from hail, wind, or impact. Parker Siding Professionals offers comprehensive siding repair services to address any issues and restore your home's protection and appearance. We understand the importance of prompt and effective repairs to prevent further damage and maintain your home's value. \n\nOur experienced technicians can repair all types of siding, including vinyl, fiber cement, wood, and metal. We carefully assess the damage and provide a cost-effective solution that restores your siding to its original condition. We match existing colors and textures to ensure a seamless repair that blends seamlessly with your home's exterior. \n\nWhether you have a few cracked panels or extensive storm damage, Parker Siding Professionals is here to help. We provide prompt and reliable service to address your siding repair needs quickly and efficiently. We're committed to providing quality workmanship and exceptional customer service. We know the weather in Colorado Springs can be unpredictable, so we're ready to respond quickly when you need us.",
+        "process": [
+          "Step 1: Thorough damage assessment and inspection",
+          "Step 2: Detailed repair plan and cost estimate",
+          "Step 3: Professional repair using matching materials",
+          "Step 4: Final inspection and quality assurance"
+        ],
+        "benefits": [
+          "Prevents further damage",
+          "Restores curb appeal",
+          "Extends siding lifespan",
+          "Cost-effective solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Look for signs of damage such as cracks, holes, loose panels, or water stains. If you notice any of these issues, it's important to have your siding inspected promptly."
+          },
+          {
+            "question": "Can you match the existing color of my siding?",
+            "answer": "Yes, we can match the existing color and texture of your siding to ensure a seamless repair."
+          },
+          {
+            "question": "Do you offer emergency siding repair services?",
+            "answer": "Yes, we offer emergency siding repair services to address urgent issues such as storm damage or water leaks."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement Services",
+        "shortDescription": "Upgrade your home with new siding for enhanced protection and beauty.",
+        "description": "When siding is severely damaged or outdated, replacement may be the best option. Parker Siding Professionals offers professional siding replacement services to transform your home's exterior and provide lasting protection. We guide you through the entire process, from selecting the right siding materials to expert installation. \n\nWe offer a wide range of siding options, including vinyl, fiber cement, wood, and metal, to suit your style and budget. Our experienced team will help you choose the perfect siding that complements your home's architecture and enhances its curb appeal. We handle every aspect of the replacement process, from removing old siding to installing new flashing and trim. \n\nParker Siding Professionals is committed to providing top-quality siding replacement services. We use only the highest quality materials and employ skilled craftsmen to ensure a durable and beautiful result. We work closely with you throughout the process to ensure your complete satisfaction. We understand that replacing your siding is a significant investment, and we are committed to making the process as smooth and stress-free as possible.",
+        "process": [
+          "Step 1: Comprehensive consultation and material selection",
+          "Step 2: Detailed measurement and project planning",
+          "Step 3: Professional old siding removal and disposal",
+          "Step 4: Expert new siding installation and finishing"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Increased home value",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of a siding replacement project depends on the size and complexity of the job. Typically, it takes 1-2 weeks to complete a siding replacement project."
+          },
+          {
+            "question": "What is the best time of year to replace siding?",
+            "answer": "The best time of year to replace siding in Colorado Springs is during the spring or fall when the weather is mild and dry."
+          },
+          {
+            "question": "Do I need a permit for siding replacement?",
+            "answer": "In most cases, you will need a permit for siding replacement. We can assist you with obtaining the necessary permits."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia repair.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, protecting it from moisture, pests, and the elements. Damaged or deteriorated soffit and fascia can lead to serious problems, including roof leaks, wood rot, and pest infestations. Parker Siding Professionals offers expert soffit and fascia repair services to keep your home protected. \n\nWe inspect your soffit and fascia for signs of damage, such as cracks, holes, rot, or peeling paint. We then provide a cost-effective solution to repair or replace the damaged sections. We use high-quality materials that are designed to withstand Colorado's harsh weather conditions. Our skilled technicians ensure a proper fit and seal to prevent moisture intrusion. \n\nParker Siding Professionals is committed to providing top-quality soffit and fascia repair services. We understand the importance of maintaining your home's roofing system and protecting it from damage. We offer prompt and reliable service to address your soffit and fascia repair needs quickly and efficiently. We know that many homes in Colorado Springs have wooden soffits and fascia, which are vulnerable to woodpeckers, so we can recommend solutions to prevent this.",
+        "process": [
+          "Step 1: Thorough inspection of soffit and fascia",
+          "Step 2: Detailed assessment and repair plan",
+          "Step 3: Removal of damaged sections",
+          "Step 4: Installation of new soffit and fascia"
+        ],
+        "benefits": [
+          "Protects your roof from moisture",
+          "Prevents pest infestations",
+          "Improves ventilation",
+          "Enhances curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of soffit and fascia damage?",
+            "answer": "Signs of damage include cracks, holes, rot, peeling paint, and sagging soffit."
+          },
+          {
+            "question": "Can you repair wooden soffit and fascia?",
+            "answer": "Yes, we can repair or replace wooden soffit and fascia. We also offer alternative materials that are more resistant to rot and pests."
+          },
+          {
+            "question": "How often should I inspect my soffit and fascia?",
+            "answer": "It's recommended to inspect your soffit and fascia at least once a year, especially after severe weather events."
+          }
+        ]
+      },
+      {
+        "slug": "hail-damage-repair",
+        "name": "Hail Damage Siding Repair",
+        "shortDescription": "Fast and reliable hail damage repair for all siding types.",
+        "description": "Colorado Springs is no stranger to hail, and unfortunately, hail can cause significant damage to your home's siding. Parker Siding Professionals specializes in hail damage siding repair, helping you restore your home's protection and appearance after a storm. We understand the urgency of hail damage repairs and offer prompt and reliable service to address your needs quickly. \n\nOur experienced technicians assess the extent of the hail damage and provide a detailed repair plan. We work with all types of siding, including vinyl, fiber cement, wood, and metal. We match existing colors and textures to ensure a seamless repair that blends seamlessly with your home's exterior. We also assist you with the insurance claims process, providing documentation and support to help you get the coverage you deserve. \n\nParker Siding Professionals is committed to providing top-quality hail damage repair services. We use only the highest quality materials and employ skilled craftsmen to ensure a durable and beautiful result. We know that dealing with hail damage can be stressful, and we are committed to making the process as smooth and stress-free as possible. We're familiar with the unique challenges hail presents in our area, and we're prepared to handle any type of damage.",
+        "process": [
+          "Step 1: Thorough hail damage assessment",
+          "Step 2: Detailed repair plan and estimate",
+          "Step 3: Assistance with insurance claims",
+          "Step 4: Professional hail damage repair"
+        ],
+        "benefits": [
+          "Restores protection from the elements",
+          "Maintains curb appeal",
+          "Prevents further damage",
+          "Assistance with insurance claims"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if my siding has hail damage?",
+            "answer": "Look for small dents, chips, or cracks on your siding. Hail damage is often more visible on darker colored siding."
+          },
+          {
+            "question": "Will my insurance cover hail damage repair?",
+            "answer": "Most homeowner's insurance policies cover hail damage repair. We can assist you with the insurance claims process."
+          },
+          {
+            "question": "How long do I have to file a hail damage claim?",
+            "answer": "The deadline for filing a hail damage claim varies depending on your insurance policy. It's important to file a claim as soon as possible after the storm."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Jessica T.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "We had Parker Siding Professionals install new vinyl siding on our home in Briargate after the old siding was damaged in a hail storm. They were professional, efficient, and the new siding looks fantastic! The crew was meticulous and cleaned up everything perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert T.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "Parker Siding Professionals repaired some damaged siding on my house after a recent storm. They were quick to respond and the repair was done efficiently. The price was fair, and the quality of work was great. Would use them again.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "We chose Parker Siding Professionals to install fiber cement siding on our new home in Flying Horse. We are so glad we did! The house looks amazing, and the siding is incredibly durable. The team was professional and courteous throughout the entire process.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "I had some damaged soffit and fascia on my home, and Parker Siding Professionals did an excellent job repairing it. They were prompt, professional, and the price was very reasonable. I highly recommend them for any siding-related work.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Karen M.",
+        "rating": 4,
+        "service": "Siding Replacement",
+        "text": "Parker Siding Professionals replaced the old wood siding on my home with new vinyl siding. The process was smooth and efficient, and the crew was very professional. I'm very happy with the results!",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "John B.",
+        "rating": 5,
+        "service": "Hail Damage Siding Repair",
+        "text": "After a bad hail storm, Parker Siding Professionals came out and assessed the damage quickly. They worked with my insurance company and completed the repairs efficiently. My siding looks brand new again! Great service!",
+        "date": "2025-02-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Parker Siding Professionals | Colorado Springs Siding",
+        "description": "Expert siding installation and repair in Colorado Springs. Vinyl, fiber cement, hail damage. Free quotes!"
+      },
+      "about": {
+        "title": "About Parker Siding Professionals",
+        "description": "Learn about Parker Siding Professionals, your trusted siding contractor in Colorado Springs. Quality workmanship, local commitment."
+      },
+      "services": {
+        "title": "Siding Services | Parker Siding Professionals",
+        "description": "Comprehensive siding services in Colorado Springs. Vinyl, fiber cement, repair, replacement. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact Parker Siding Professionals",
+        "description": "Contact Parker Siding Professionals for a free siding quote in Colorado Springs. Call us today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Parker Siding Professionals",
+        "description": "Read what our satisfied customers are saying about Parker Siding Professionals in Colorado Springs. Trusted siding contractor."
+      },
+      "service-areas": {
+        "title": "Parker Siding Service Areas",
+        "description": "Parker Siding Professionals serves Colorado Springs and surrounding areas. Expert siding services near you!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Colorado Springs",
+        "slug": "colorado-springs-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals is proud to offer our full range of siding services to homeowners and businesses in Colorado Springs. From minor repairs to complete siding replacement, we are committed to providing the highest quality workmanship and customer service. We understand the unique challenges of Colorado's climate and offer siding solutions designed to withstand the elements. \n\nOur team of experienced professionals is dedicated to helping you choose the perfect siding option to enhance the beauty and value of your home. We offer a variety of materials, including vinyl, fiber cement, and wood, to suit your style and budget. Let Parker Siding Professionals transform your Colorado Springs property with beautiful, durable siding.",
+        "localContext": "Colorado Springs, nestled at the foot of Pikes Peak, is known for its stunning natural beauty and vibrant community. We understand the specific aesthetic preferences and building codes of the area.",
+        "nearbyAreas": [
+          "Manitou Springs",
+          "Security-Widefield",
+          "Fountain"
+        ]
+      },
+      {
+        "city": "Manitou Springs",
+        "slug": "manitou-springs-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals extends its expert siding services to the charming town of Manitou Springs. We appreciate the unique architectural character of Manitou Springs and strive to provide siding solutions that complement its historic charm. Whether you need repairs to your Victorian-era home or a complete siding upgrade, we have the skills and experience to get the job done right.\n\nWe offer a wide selection of siding materials and styles to match the distinct look of Manitou Springs homes. Our team is committed to providing exceptional service and ensuring your complete satisfaction. Trust Parker Siding Professionals to protect and beautify your Manitou Springs property.",
+        "localContext": "Manitou Springs is a historic resort town known for its mineral springs and unique architecture. We are familiar with the specific challenges of working on older homes in the area.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Cascade",
+          "Green Mountain Falls"
+        ]
+      },
+      {
+        "city": "Security-Widefield",
+        "slug": "security-widefield-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals is dedicated to serving the residents of Security-Widefield with top-quality siding services. We understand the importance of affordable and reliable siding solutions for homeowners in this community. From minor repairs to complete siding replacement, we offer a range of services to meet your needs and budget.\n\nOur team is committed to providing exceptional customer service and ensuring your complete satisfaction. We offer a variety of siding materials and styles to enhance the curb appeal and value of your home. Trust Parker Siding Professionals to protect your Security-Widefield property with durable and beautiful siding.",
+        "localContext": "Security-Widefield is a growing community located south of Colorado Springs, known for its family-friendly atmosphere. We understand the specific needs of homeowners in this area.",
+        "nearbyAreas": [
+          "Fountain",
+          "Colorado Springs",
+          "Stratmoor"
+        ]
+      },
+      {
+        "city": "Fountain",
+        "slug": "fountain-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals is proud to offer our expert siding services to the residents of Fountain, Colorado. We understand the importance of durable and attractive siding for homes in this growing community. Whether you need repairs, replacement, or new installation, we have the skills and experience to get the job done right.\n\nWe offer a wide selection of siding materials and styles to suit your taste and budget. Our team is committed to providing exceptional customer service and ensuring your complete satisfaction. Trust Parker Siding Professionals to protect and beautify your Fountain property for years to come.",
+        "localContext": "Fountain is a rapidly growing city located south of Colorado Springs, known for its affordable housing and strong community spirit. We are familiar with the local building codes and regulations.",
+        "nearbyAreas": [
+          "Security-Widefield",
+          "Peyton",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Monument",
+        "slug": "monument-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals provides siding services to Monument, CO. We understand the importance of quality siding in protecting your home from the elements, especially with Monument's varied weather. We offer a variety of siding options to match the aesthetic of your home and neighborhood.\n\nOur team is dedicated to providing professional installation and repair services, ensuring your siding looks great and functions optimally. We are committed to exceeding your expectations and providing exceptional customer service.",
+        "localContext": "Monument is a town north of Colorado Springs, known for its scenic views and family-friendly environment. We understand the specific needs of homeowners in this area.",
+        "nearbyAreas": [
+          "Palmer Lake",
+          "Woodmoor",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Palmer Lake",
+        "slug": "palmer-lake-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals is happy to offer our siding expertise to the residents of Palmer Lake. We recognize the unique architectural styles in Palmer Lake and offer siding solutions that enhance the beauty and protect the integrity of your home. From historic renovations to modern updates, we have the skills and experience to handle any project.\n\nWe are committed to providing exceptional service and ensuring your complete satisfaction. Our team will work closely with you to choose the perfect siding material and style to match your vision and budget. Trust Parker Siding Professionals to protect and beautify your Palmer Lake property.",
+        "localContext": "Palmer Lake is a small town known for its beautiful lake and historic charm. We understand the importance of maintaining the character of homes in this area.",
+        "nearbyAreas": [
+          "Monument",
+          "Woodmoor",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Woodmoor",
+        "slug": "woodmoor-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals provides siding services to Woodmoor, CO, understanding the importance of durable and aesthetically pleasing siding in this community. We offer a variety of options to match the distinct architectural styles found in Woodmoor, ensuring your home stands out while being protected from the elements.\n\nOur team is dedicated to providing top-notch installation and repair services, ensuring your siding functions optimally and enhances your home's curb appeal. We are committed to exceeding your expectations and providing exceptional customer service to all Woodmoor residents.",
+        "localContext": "Woodmoor is a planned community known for its beautiful homes and well-maintained landscapes. We understand the importance of maintaining the aesthetic appeal of homes in this area.",
+        "nearbyAreas": [
+          "Monument",
+          "Palmer Lake",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Black Forest",
+        "slug": "black-forest-co",
+        "state": "CO",
+        "content": "Parker Siding Professionals is pleased to offer our siding services to the residents of Black Forest. We understand the unique challenges of homes in this area, including the need for fire-resistant siding options. We provide a variety of siding solutions to protect your home from the elements and enhance its beauty.\n\nOur team is committed to providing exceptional customer service and ensuring your complete satisfaction. We will work closely with you to choose the perfect siding material and style to match your vision and budget. Trust Parker Siding Professionals to protect and beautify your Black Forest property.",
+        "localContext": "Black Forest is a rural community known for its pine forests and spacious properties. We understand the importance of fire-resistant siding in this area.",
+        "nearbyAreas": [
+          "Falcon",
+          "Peyton",
+          "Colorado Springs"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding": "/images/service-fiber-cement-siding.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "hail-damage-repair": "/images/service-hail-damage-repair.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding": {
+        "src": "/images/service-fiber-cement-siding.webp",
+        "srcset": "/images/service-fiber-cement-siding-400w.webp 400w, /images/service-fiber-cement-siding-800w.webp 800w, /images/service-fiber-cement-siding-1200w.webp 1200w, /images/service-fiber-cement-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hail-damage-repair": {
+        "src": "/images/service-hail-damage-repair.webp",
+        "srcset": "/images/service-hail-damage-repair-400w.webp 400w, /images/service-hail-damage-repair-800w.webp 800w, /images/service-hail-damage-repair-1200w.webp 1200w, /images/service-hail-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

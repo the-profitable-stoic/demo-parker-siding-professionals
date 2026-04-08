@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-parker-siding-professionals.dream-surge.com/sitemap-index.xml
